@@ -1,0 +1,3 @@
+[submodule "IReporter-Android"]
+	path = IReporter-Android
+	url = https://github.com/George-Okumu/IReporter-Android.git
