@@ -1,3 +1,6 @@
 [submodule "IReporter-Android"]
 	path = IReporter-Android
 	url = https://github.com/George-Okumu/IReporter-Android.git
+[submodule "IReporter-Django"]
+	path = IReporter-Django
+	url = https://github.com/George-Okumu/IReporter-Django.git
